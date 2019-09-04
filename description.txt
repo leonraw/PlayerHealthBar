@@ -1,0 +1,2 @@
+A very simply Mod.
+Display your entity health bar just like teammats and enemies.
